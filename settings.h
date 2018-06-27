@@ -44,7 +44,7 @@ const int   gConfMqttPort = 1883;
 /**************************************** NETWORK **********************************/
 
 // the media access control (ethernet hardware) address for the shield:
-const byte gConfMacAddress[] = { 0xFA, 0xE1, 0x90, 0x00, 0x00, 0x01 }; 
+const byte gConfMacAddress[] = { 0xAA, 0xBB, 0xCC, 0x00, 0x00, 0x01 }; 
 
 
 /**************************************** SLEEP **********************************/
